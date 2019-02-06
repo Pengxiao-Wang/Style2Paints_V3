@@ -8,7 +8,10 @@ Reimplementation of Style2Paints V3
 	<img src="./example/1_color.png" width="200px" />
 </figure>
 
-![3](./example/2_sketch.png)        ![4](./example/2_color.png)
+<center class="half">
+    <img src="./example/2_sketch.png" width="200px" />
+	<img src="./example/2_color.png" width="200px" />
+</center>
 
 ![5](./example/3_sketch.png)        ![6](./example/3_color.png)
 
