@@ -3,9 +3,9 @@ Reimplementation of Style2Paints V3
 
 ## Result
 
-![1](./example/1_sketch.png){:width="100px" height="100px"}        
+![1](./example/1_sketch.png) {:width="100px" height="100px"}        
 
-![2](./example/1_color.png){:width="100px" height="100px"}     
+![2](./example/1_color.png) {:width="100px" height="100px"}     
 
 ![3](./example/2_sketch.png)        ![4](./example/2_color.png)
 
