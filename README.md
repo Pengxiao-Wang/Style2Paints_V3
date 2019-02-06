@@ -24,5 +24,23 @@ Reimplementation of Style2Paints V3
     	<td ><center><img src="./example/5_sketch.png" width="200px">figure 5_1  新垣结衣5 </center></td>
     	<td ><center><img src="./example/5_color.png" width="200px">figure 5_2  新垣结衣5 </center></td>
 	</tr>
+    <tr>
+    	<td ><center><img src="./example/6_sketch.png" width="200px">figure 6_1  新垣结衣6 </center></td>
+    	<td ><center><img src="./example/6_color.png" width="200px">figure 6_2  新垣结衣6 </center></td>
+	</tr>
+    <tr>
+    	<td ><center><img src="./example/7_sketch.png" width="200px">figure 7_1  新垣结衣7 </center></td>
+    	<td ><center><img src="./example/7_color.png" width="200px">figure 7_2  新垣结衣7 </center></td>
+	</tr>
+    <tr>
+    	<td ><center><img src="./example/8_sketch.png" width="200px">figure 8_1  新垣结衣8 </center></td>
+    	<td ><center><img src="./example/8_color.png" width="200px">figure 8_2  新垣结衣8 </center></td>
+	</tr>
+    <tr>
+    	<td ><center><img src="./example/9_sketch.png" width="200px">figure 9_1  新垣结衣9 </center></td>
+    	<td ><center><img src="./example/9_color.png" width="200px">figure 9_2  新垣结衣9 </center></td>
+	</tr>
 </table>
+
+
 
