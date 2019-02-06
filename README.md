@@ -13,6 +13,15 @@ Reimplementation of Style2Paints V3
 	<img src="./example/2_color.png" width="200px" />
 </center>
 
+<table>
+    <tr>
+        <td ><center><img src="./example/3_sketch.png" >图1  新垣结衣1 </center></td>
+        <td ><center><img src="./example/3_color.png" >图1  新垣结衣1 </center></td>
+    </tr>
+</table>
+
+
+
 ![5](./example/3_sketch.png)        ![6](./example/3_color.png)
 
 ![7](./example/4_sketch.png)        ![8](./example/4_color.png)
