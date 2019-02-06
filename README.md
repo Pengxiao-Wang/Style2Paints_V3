@@ -3,9 +3,9 @@ Reimplementation of Style2Paints V3
 
 ## Result
 
-<img src="./example/1_sketch.png" style="width:50px height:50px" />
+<img src="./example/1_sketch.png" style="width:50px; height:50px" />
 
-<img src="./example/1_color.png" style="width:100px height:100px" />
+<img src="./example/1_color.png" style="width:100px; height:100px" />
 
 ![3](./example/2_sketch.png)        ![4](./example/2_color.png)
 
