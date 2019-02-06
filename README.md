@@ -3,9 +3,9 @@ Reimplementation of Style2Paints V3
 
 ## Result
 
-<img src="./example/1_sketch.png" width="400px" />
-
-<img src="./example/1_color.png" width="800px" />
+<figure class="half">
+    <img src="./example/1_sketch.png" width="200px" />
+    <img src="./example/1_color.png" width="200px" />
 
 ![3](./example/2_sketch.png)        ![4](./example/2_color.png)
 
