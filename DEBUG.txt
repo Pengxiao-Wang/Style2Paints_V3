@@ -1,0 +1,7 @@
+这个版本在原来V3的基础上修改了：
+ 1、取消了数据增强中的以0.5概率翻转的操作                    done
+ 2、对于粘贴上色中的会使整个图片变暗的问题进行了修复           done#改变了dataloader
+ 3、减小了user hint的大小                                done
+ 4、修复了sketch的在tensorboard上没有更新step的问题         done
+ 5、修复了val上的loss的大小                               done
+ 6、增多user hint                                       done
