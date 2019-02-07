@@ -5,7 +5,7 @@ Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints
 
 <table>
     <tr>
-        <td ><center><img src="./example/1_sketch.png" width="200px"> </center></td><center>figure 1_1  新垣结衣1</center>
+        <td ><center><img src="./example/1_sketch.png" width="200px">figure 1_1  新垣结衣1 </center></td>
         <td ><center><img src="./example/1_color.png" width="200px">figure 1_2  新垣结衣1 </center></td>
     </tr>
     <tr>
@@ -43,18 +43,47 @@ Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints
 </table>
 
 
+
 ## Step1 : Dataset Simulation
 
-​	One should modify simulate_step*.ipynd or simulate_step*.py with your own data path before runing this script. 
+#### ​	One should modify simulate_step\*.ipynd or simulate_step\*.py with your own data path before runing this script. 
 
 ### Simulate_step1 : Random Region Proposal and Pasting
 
-<center><img src="./example/Random Region Proposal and Pasting.png" width="800px"></center>
+<center><img src="./example/Random Region Proposal and Pasting.png" width="400px"></center>
+
+​	See script : simulate_step1.ipynb 
 
 ### Simulate_step2 : Random transform
 
-<center><img src="./example/Random transform.png" width="800px"></center>
+<center>
+    <img src="./example/Random transform.png" width="400px">
+</center>
+
+​	See script : simulate_step2.ipynb 
 
 ### Simulate_step3 : Random color spray
 
-<center><img src="./example/Random color spray.png" width="800px"></center>
+<center>
+    <img src="./example/Random color spray.png" width="400px">
+</center>
+
+​	I merged this part with the Pytorch-data loader. Refer to ./Pytorch-Style2paints/dataset_multi.py
+
+### Effect Picture
+
+<table>
+    <tr>
+        <td ><center>Ground truth</center></td>
+        <td ><center>Color draft</center></td>
+    </tr>
+    <tr>
+    	<td ><center><img src="./example/gt_1.png" width="200px"></center></td>
+    	<td ><center><img src="./example/df_1.png" width="200px"></center></td>
+	</tr>
+    <tr>
+    	<td ><center><img src="./example/gt_2.png" width="200px"></center></td>
+    	<td ><center><img src="./example/df_2.png" width="200px"></center></td>
+	</tr>
+</table>
+
