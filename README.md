@@ -1,5 +1,5 @@
 # Style2Paints_V3
-Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf]())
+Pytorch Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf]())
 
 ## Results
 
@@ -115,7 +115,7 @@ Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints
 
 ## Train 
 
-​	Just run train.py. Don't forget to modify the easy dict in the train.py script!
+​	Just run train.py. Don't forget to modify the easydict in the train.py script!
 
 ​        All the hyper-parameters are chosen as same as the original paper.
 
@@ -142,5 +142,26 @@ args = easydict.EasyDict({
 
 ## Output of the data-loader & I/O of the Model
 
+### Data-loader:
 
+```python
+for i, (input, df, gt) in enumerate(train_loader):
+```
 
+Input : (batch_size, 4, 256, 256)   :   sketch(1 channel) + hint map(3 channels) 
+
+df : (batch_size, 3, 224, 224)   :   simulated data which is the input of Inception V1
+
+gt: (batch_size, 3, 256, 256)   :   ground truth
+
+### I/O of the Inception V1:
+
+INPUT: df : (batch_size, 3, 224, 224)   :   simulated data which is the input of Inception V1
+
+OUTPUT: latent code (batch_size, 1024, 1, 1)
+
+### I/O of the Style2Paints_V3:
+
+INPUT: Input : (batch_size, 4, 256, 256)   :   sketch(1 channel) + hint map(3 channels) 
+
+OUTPUT: output : (batch_size, 3, 256, 256)   :   colorized manuscripts
