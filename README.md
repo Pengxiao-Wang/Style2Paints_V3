@@ -41,5 +41,21 @@ Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints
     	<td ><center><img src="./example/9_color.png" width="200px">figure 9_2  新垣结衣9 </center></td>
 	</tr>
 </table>
+
+
 ## Step1 : Dataset Simulation
+
+​	One should modify simulate_step*.ipynd or simulate_step*.py with your own data path before runing this script. 
+
+### Simulate_step1 : Random Region Proposal and Pasting
+
+<center><img src="./example/Random Region Proposal and Pasting.png" width="400px"></center><center>111</center>
+
+### Simulate_step2 : Random transform
+
+<center><img src="./example/Random transform.png" width="400px"></center><center>111</center>
+
+### Simulate_step3 : Random color spray
+
+<center><img src="./example/Random color spray.png" width="400px"></center><center>111</center>
 
