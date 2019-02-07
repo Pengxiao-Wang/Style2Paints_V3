@@ -1,5 +1,5 @@
 # Style2Paints_V3
-Reimplementation of Style2Paints V3
+Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf]())
 
 ## Result
 
@@ -41,6 +41,5 @@ Reimplementation of Style2Paints V3
     	<td ><center><img src="./example/9_color.png" width="200px">figure 9_2  新垣结衣9 </center></td>
 	</tr>
 </table>
-
-
+## Step1 : Dataset Simulation
 
