@@ -5,40 +5,40 @@ Pytorch Reimplementation of Style2Paints V3 ([https://github.com/lllyasviel/styl
 
 <table>
     <tr>
-        <td ><center><img src="./example/1_sketch.png" width="200px">figure 1_1  您的老婆1 </center></td>
-        <td ><center><img src="./example/1_color.png" width="200px">figure 1_2  您的老婆1 </center></td>
+        <td ><center><img src="./example/1_sketch.png" width="200px">figure 1_1   </center></td>
+        <td ><center><img src="./example/1_color.png" width="200px">figure 1_2   </center></td>
     </tr>
     <tr>
-    	<td ><center><img src="./example/2_sketch.png" width="200px">figure 2_1  您的老婆2 </center></td>
-    	<td ><center><img src="./example/2_color.png" width="200px">figure 2_2  您的老婆2 </center></td>
+    	<td ><center><img src="./example/2_sketch.png" width="200px">figure 2_1   </center></td>
+    	<td ><center><img src="./example/2_color.png" width="200px">figure 2_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/3_sketch.png" width="200px">figure 3_1  您的老婆3 </center></td>
-    	<td ><center><img src="./example/3_color.png" width="200px">figure 3_2  您的老婆3 </center></td>
+    	<td ><center><img src="./example/3_sketch.png" width="200px">figure 3_1   </center></td>
+    	<td ><center><img src="./example/3_color.png" width="200px">figure 3_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/4_sketch.png" width="200px">figure 4_1  您的老婆4 </center></td>
-    	<td ><center><img src="./example/4_color.png" width="200px">figure 4_2  您的老婆4 </center></td>
+    	<td ><center><img src="./example/4_sketch.png" width="200px">figure 4_1   </center></td>
+    	<td ><center><img src="./example/4_color.png" width="200px">figure 4_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/5_sketch.png" width="200px">figure 5_1  您的老婆5 </center></td>
-    	<td ><center><img src="./example/5_color.png" width="200px">figure 5_2  您的老婆5 </center></td>
+    	<td ><center><img src="./example/5_sketch.png" width="200px">figure 5_1   </center></td>
+    	<td ><center><img src="./example/5_color.png" width="200px">figure 5_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/6_sketch.png" width="200px">figure 6_1  您的老婆6 </center></td>
-    	<td ><center><img src="./example/6_color.png" width="200px">figure 6_2  您的老婆6 </center></td>
+    	<td ><center><img src="./example/6_sketch.png" width="200px">figure 6_1   </center></td>
+    	<td ><center><img src="./example/6_color.png" width="200px">figure 6_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/7_sketch.png" width="200px">figure 7_1  您的老婆7 </center></td>
-    	<td ><center><img src="./example/7_color.png" width="200px">figure 7_2  您的老婆7 </center></td>
+    	<td ><center><img src="./example/7_sketch.png" width="200px">figure 7_1   </center></td>
+    	<td ><center><img src="./example/7_color.png" width="200px">figure 7_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/8_sketch.png" width="200px">figure 8_1  您的老婆8 </center></td>
-    	<td ><center><img src="./example/8_color.png" width="200px">figure 8_2  您的老婆8 </center></td>
+    	<td ><center><img src="./example/8_sketch.png" width="200px">figure 8_1   </center></td>
+    	<td ><center><img src="./example/8_color.png" width="200px">figure 8_2   </center></td>
 	</tr>
     <tr>
-    	<td ><center><img src="./example/9_sketch.png" width="200px">figure 9_1  您的老婆9 </center></td>
-    	<td ><center><img src="./example/9_color.png" width="200px">figure 9_2  您的老婆9 </center></td>
+    	<td ><center><img src="./example/9_sketch.png" width="200px">figure 9_1   </center></td>
+    	<td ><center><img src="./example/9_color.png" width="200px">figure 9_2   </center></td>
 	</tr>
 </table>
 
